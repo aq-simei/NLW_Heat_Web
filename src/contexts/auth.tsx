@@ -41,7 +41,7 @@ export function AuthProvider(props: AuthProviderProps){
         })
         const {token, user} = response.data;
         localStorage.setItem('@dowhile:token', token) //Salvamos o token do usuário dentro do cache do navegador :: evita que autenticação seja perdida se fechar a janela
-
+        api.defaults.headers.common.authorization = `Bearer ${token}`;
         setUser(user)
     }
 
