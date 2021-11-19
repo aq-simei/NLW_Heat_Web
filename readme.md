@@ -50,3 +50,24 @@ Disponibilizado pela Rocketseat e utilizado como base para o projeto:
 - [Layout](https://www.figma.com/community/file/1031699316177416916)
 
 ---
+
+> Acesso ao repositório do projeto back-end
+
+- [Back-end(https://github.com/aq-simei/NLW-Heat-Node)
+
+> Como utilizar
+Clone esse repositório 
+``` bash 
+git clone https://github.com/aq-simei/NLW_Heat_Web
+```
+Instale as dependências
+``` bash 
+yarn install
+```
+Execute o projeto
+``` bash 
+yarn dev
+```
+<strong> 
+Lembre-se de executar o projeto do back-end seguindo as intruções do repositório!
+</strong>
