@@ -51,10 +51,6 @@ Disponibilizado pela Rocketseat e utilizado como base para o projeto:
 
 ---
 
-> Acesso ao repositório do projeto back-end
-
-- [Back-end(https://github.com/aq-simei/NLW-Heat-Node)
-
 > Como utilizar
 Clone esse repositório 
 ``` bash 
